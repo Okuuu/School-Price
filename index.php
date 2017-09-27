@@ -62,10 +62,10 @@
         var priceYear = $('#priceYear').val();
         var classPerDay = $('#classPerDay').val();
         var holidayWeeks = $('#holidayWeeks').val();
-        console.log('start : ' + start);
-        console.log('end : ' + end);
-        console.log('priceYear : ' + priceYear);
-        console.log('classPerDay : ' + classPerDay);
+        //console.log('start : ' + start);
+        //console.log('end : ' + end);
+        //console.log('priceYear : ' + priceYear);
+        //console.log('classPerDay : ' + classPerDay);
 
         if(priceYear <= 0 || classPerDay <= 0 || holidayWeeks < 0){
             event.preventDefault();
