@@ -91,12 +91,16 @@
         //console.log(day);
 
         totalDays = year*365 + month*30 + day;
+
+        //Here we subtract the number of days of the week-end
         var weekEnd = (totalDays/7)*2;
         //console.log('week-end : ' + weekEnd);
         totalDays = totalDays - weekEnd;
         //console.log('number of day : ' + totalDays);
 
-        totalDays = totalDays- (holidayWeeks *7);
+        //Here we subtract the number of days of the holidays
+        totalDays = totalDays- (holidayWeeks * 7);
+
         priceDay = priceYear / totalDays;
         priceDay = Math.floor(priceDay);
 
