@@ -38,6 +38,10 @@
                 </p>
 
                 <p class="name">
+                    <input name="name" type="number" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Number of week of holiday you have" id="holidayWeeks" />
+                </p>
+
+                <p class="name">
                     <input name="name" type="number" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Class Per Day (Average)" id="classPerDay" />
                 </p>
 
@@ -57,6 +61,7 @@
         var end = $('#end').val();
         var priceYear = $('#priceYear').val();
         var classPerDay = $('#classPerDay').val();
+        var holidayWeeks = $('#holidayWeeks').val();
         //console.log('start : ' + start);
         //console.log('end : ' + end);
         //console.log('priceYear : ' + priceYear);
@@ -91,6 +96,7 @@
         totalDays = totalDays - weekEnd;
         //console.log('number of day : ' + totalDays);
 
+        totalDays = totalDays- (holidayWeeks *7);
         priceDay = priceYear / totalDays;
         priceDay = Math.floor(priceDay);
 
