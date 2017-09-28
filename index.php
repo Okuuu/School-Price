@@ -1,8 +1,8 @@
 <!-- Left to do:
-    - Check the form before treat it
+    - Check the form before treat it DONE
     - Allow to change the device
     - Cut the date with a - rather than with hardcoding
-    - It substract the holiday + the weekends, I have to fix that
+    - It substract the holiday + the weekends, I have to fix that DONE
 
     -->
 
