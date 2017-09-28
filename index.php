@@ -2,6 +2,8 @@
     - Check the form before treat it
     - Allow to change the device
     - Cut the date with a - rather than with hardcoding
+    - It substract the holiday + the weekends, I have to fix that
+
     -->
 
 <!DOCTYPE html>
@@ -102,14 +104,14 @@
                 alertify.error('The date you set is impossible, please check the form');
             }
             else{
+                //Here we subtract the number of days of the holidays
+                totalDays = totalDays- (holidayWeeks * 7);
+
                 //Here we subtract the number of days of the week-end
                 var weekEnd = (totalDays/7)*2;
                 //console.log('week-end : ' + weekEnd);
                 totalDays = totalDays - weekEnd;
                 //console.log('number of day : ' + totalDays);
-
-                //Here we subtract the number of days of the holidays
-                totalDays = totalDays- (holidayWeeks * 7);
 
                 priceDay = priceYear / totalDays;
                 priceDay = Math.floor(priceDay);
