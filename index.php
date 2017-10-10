@@ -28,10 +28,12 @@
             <div class="form" id="form1">
 
                 <p class="name">
+                    <label for="start">Date de début des cours : </label>
                     <input name="name" type="date" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Start Date" id="start" />
                 </p>
 
                 <p class="name">
+                    <label for="end">Date de fin des cours : </label>
                     <input name="name" type="date" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="End Date" id="end" />
                 </p>
 
