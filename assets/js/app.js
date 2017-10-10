@@ -19,9 +19,9 @@ $('#submit').click(function(){
         var yearStart = start.substring(0,4);
         var monthStart = start.substring(5,7);
         var dayStart = start.substring(8,10);
-        console.log('yearStart', yearStart);
-        console.log('monthStart', monthStart);
-        console.log('dayStart', dayStart);
+        // console.log('yearStart', yearStart);
+        // console.log('monthStart', monthStart);
+        // console.log('dayStart', dayStart);
 
         var yearEnd = end.substring(0,4);
         var monthEnd = end.substring(5,7);
@@ -68,4 +68,4 @@ $('#submit').click(function(){
 
     }
 
-})
+});
