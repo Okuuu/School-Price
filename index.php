@@ -1,9 +1,9 @@
 <!-- Left to do:
-    - Check the form before treat it DONE
     - Allow to change the device
     - Cut the date with a - rather than with hardcoding
-    - It substract the holiday + the weekends, I have to fix that DONE
-
+    DONE:
+    - Check the form before treat it
+    - It substract the holiday + the weekends, I have to fix that
     -->
 
 <!DOCTYPE html>
@@ -26,6 +26,7 @@
     <div id="form-main">
         <div id="form-div">
             <div class="form" id="form1">
+
 
                 <p class="name">
                     <input name="name" type="date" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Start Date" id="start" />
