@@ -21,7 +21,10 @@ label {
 #feedback-page{
     text-align:center;
 }
-
+.form label {
+    display: block;
+    margin-bottom: 5px;
+}
 #form-main{
     width:100%;
     float:left;
