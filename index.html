@@ -11,6 +11,7 @@
     <head>
         <title>Page d'index</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
 
         <!-- include the script -->
@@ -22,6 +23,9 @@
 
     </head>
     <body>
+    <div class="fullScreen-bg">
+        <video src="./assets/video/video3.mp4" autoplay class="fullscreen-bg__video" width="100%" loop="true"></video>
+    </div>
     <h1>Should I skip class ?</h1>
     <div id="form-main">
         <div id="form-div">
@@ -29,22 +33,27 @@
 
 
                 <p class="name">
+                    <label for="start">School start date : </label>
                     <input name="name" type="date" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Start Date" id="start" />
                 </p>
 
                 <p class="name">
+                    <label for="end">School end date : </label>
                     <input name="name" type="date" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="End Date" id="end" />
                 </p>
 
                 <p class="name">
+                    <label for="priceYear">Price per year : </label>
                     <input name="name" type="number" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Price Per Year" id="priceYear" />
                 </p>
 
                 <p class="name">
+                    <label for="holidayWeeks">Number of week holidays: </label>
                     <input name="name" type="number" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Number of week of holiday you have" id="holidayWeeks" />
                 </p>
 
                 <p class="name">
+                    <label for="classPerDay">Class per day (average): </label>
                     <input name="name" type="number" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Class Per Day (Average)" id="classPerDay" />
                 </p>
 
@@ -57,6 +66,9 @@
     </body>
 </html>
 
+<script src="./assets/js/app.js"></script>
+
+<!--
 <script>
     $('#submit').click(function(){
         //We start by getting the value of the form
@@ -129,4 +141,4 @@
         }
 
     })
-</script>
+</script>-->
