@@ -26,7 +26,7 @@ $('#submit').click(function(){
         //console.log('yearStart', yearStart);
         //console.log('monthStart', monthStart);
         //console.log('dayStart', dayStart);
-        
+
         end = end.split("-");
 
         var yearEnd = end[0];
