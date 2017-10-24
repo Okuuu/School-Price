@@ -1,4 +1,4 @@
-#School Price
+##School Price
 
 School price is a website which calculate how much cost each day of school
 
