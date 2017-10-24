@@ -26,10 +26,12 @@ $('#submit').click(function(){
         //console.log('yearStart', yearStart);
         //console.log('monthStart', monthStart);
         //console.log('dayStart', dayStart);
+        
+        end = end.split("-");
 
-        var yearEnd = end.substring(0,4);
-        var monthEnd = end.substring(5,7);
-        var dayEnd = end.substring(8,10);
+        var yearEnd = end[0];
+        var monthEnd = end[1];
+        var dayEnd = end[2];
         //console.log(yearEnd);
         //console.log(monthEnd);
         //console.log(dayEnd);
