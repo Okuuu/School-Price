@@ -6,4 +6,4 @@ It uses Javascript
 
 The design came from [Rexkirby](https://codepen.io/rexkirby/pen/Fdnlz)
 
-Made with 💗 by Oku
+Made with ❤️ by Oku
