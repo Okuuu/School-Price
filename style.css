@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 html{
-    background:url(http://www.theprospect.net/wp-content/uploads/2015/10/Studying.jpg) no-repeat;
+    background: url("img/bg.jpg") no-repeat;
     background-size: cover;
     height:100%;
 }
@@ -15,10 +15,17 @@ h1{
     text-align: center;
     color: white;
 }
+
+label {
+    color: white;
+}
 #feedback-page{
     text-align:center;
 }
-
+.form label {
+    display: block;
+    margin-bottom: 5px;
+}
 #form-main{
     width:100%;
     float:left;
