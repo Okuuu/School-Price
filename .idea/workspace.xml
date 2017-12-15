@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="601d73a1-1761-41ab-8bc3-55f36ac9d4bc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/School-Price.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/video/video3.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/alertify/alertify.js" afterPath="$PROJECT_DIR$/assets/alertify/alertify.js" />
-      <change beforePath="$PROJECT_DIR$/alertify/alertify.min.js" afterPath="$PROJECT_DIR$/assets/alertify/alertify.min.js" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/alertify.css" afterPath="$PROJECT_DIR$/assets/alertify/css/alertify.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/alertify.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/alertify.min.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/alertify.rtl.css" afterPath="$PROJECT_DIR$/assets/alertify/css/alertify.rtl.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/alertify.rtl.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/alertify.rtl.min.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/bootstrap.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/bootstrap.rtl.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/bootstrap.rtl.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/bootstrap.rtl.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/bootstrap.rtl.min.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/default.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/default.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/default.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/default.min.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/default.rtl.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/default.rtl.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/default.rtl.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/default.rtl.min.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/semantic.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/semantic.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/semantic.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/semantic.min.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/semantic.rtl.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/semantic.rtl.css" />
-      <change beforePath="$PROJECT_DIR$/alertify/css/themes/semantic.rtl.min.css" afterPath="$PROJECT_DIR$/assets/alertify/css/themes/semantic.rtl.min.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
@@ -45,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="338">
-                <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <first_editor relative-caret-position="545">
+                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -54,21 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-702">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="516">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1794">
-              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+            <state relative-caret-position="-472">
+              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -191,12 +165,12 @@
       <updated>1507647122587</updated>
       <workItem from="1507647123849" duration="255000" />
       <workItem from="1507647577893" duration="2771000" />
-      <workItem from="1513322443604" duration="454000" />
+      <workItem from="1513322443604" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3480000" />
+    <option name="totallyTimeSpent" value="3594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -277,26 +251,26 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="338">
-            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <first_editor relative-caret-position="545">
+            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-472">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1794">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state relative-caret-position="516">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
