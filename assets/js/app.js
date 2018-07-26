@@ -69,7 +69,7 @@ $('#submit').click(function(){
             //console.log('Price/day : ' + priceDay);
             //console.log('Price/class : ' + priceClass);
 
-            alertify.alert('You are spending ' + priceDay + '€ each day in your school, and ' + priceClass + '€ each class ... So you definitely don\'t want to skip class ;) ');
+            alertify.alert('Should you skip class ? 🤔','You are spending ' + priceDay + '€ each day in your school, and ' + priceClass + '€ each class ... So you definitely don\'t want to skip class ;) ');
         }
     }
 });
