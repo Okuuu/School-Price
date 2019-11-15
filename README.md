@@ -10,4 +10,4 @@ This website calculate how much cost your school by day and by class to realize 
 - I used Alertify to handle the alerts
 - The style of the form come from [Rexkirby](https://codepen.io/rexkirby/pen/Fdnlz)
 
-Made with ❤️by Oku
+Made with ❤️ by Oku
